@@ -1,5 +1,5 @@
 #include "DayWork.h"
-#include "File.h"
+
 int main() {
 	DayWork* dw = NULL;
 	Work** tmp = NULL;
@@ -42,7 +42,5 @@ int main() {
 	freeAllWorks(dw);
 	free(dw);
 	dw = NULL;
-	//openFile();
-	//printFile();
 	return 0;
 }
