@@ -1,0 +1,9 @@
+﻿  DayWork.c
+  File.c
+  Main.c
+  TIME.c
+  WORK.c
+\\Mac\Home\Desktop\visual_studio_projects\Check_Wolt\Check_Wolt\WORK.c(15,33): warning C4028: formal parameter 1 different from declaration
+  Generating Code...
+\\Mac\Home\Desktop\visual_studio_projects\Check_Wolt\Check_Wolt\File.c(10): warning C4716: 'makeWorkToString': must return a value
+  Check_Wolt.vcxproj -> \\Mac\Home\Desktop\visual_studio_projects\Check_Wolt\Debug\Check_Wolt.exe
